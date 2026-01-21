@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EXACTLY&CO</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #000;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>EXACTLY&CO</h1>
+  <p>Simple. Naturel. Exactement ce qu’il faut.</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>À propos</h2>
+    <p>EXACTLY&CO est une marque dédiée aux produits simples, naturels et efficaces. Nous croyons en la qualité, la transparence et le fait de faire les choses correctement.</p>
+  </div>
+
+  <div class="card">
+    <h2>Nos produits</h2>
+    <ul>
+      <li>Savons naturels</li>
+      <li>Huiles pour le corps</li>
+      <li>Gommages naturels</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Contact</h2>
+    <p>📧 Email : contact@exactlyandco.com</p>
+    <p>📍 Maroc</p>
+    <a class="btn" href="#">Nous contacter</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 EXACTLY&CO. Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EXACTLY&CO</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #000;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>EXACTLY&CO</h1>
+  <p>Simple. Naturel. Exactement ce qu’il faut.</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>À propos</h2>
+    <p>EXACTLY&CO est une marque dédiée aux produits simples, naturels et efficaces. Nous croyons en la qualité, la transparence et le fait de faire les choses correctement.</p>
+  </div>
+
+  <div class="card">
+    <h2>Nos produits</h2>
+    <ul>
+      <li>Savons naturels</li>
+      <li>Huiles pour le corps</li>
+      <li>Gommages naturels</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Contact</h2>
+    <p>📧 Email : contact@exactlyandco.com</p>
+    <p>📍 Maroc</p>
+    <a class="btn" href="#">Nous contacter</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 EXACTLY&CO. Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EXACTLY&CO</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #000;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>EXACTLY&CO</h1>
+  <p>Simple. Naturel. Exactement ce qu’il faut.</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>À propos</h2>
+    <p>EXACTLY&CO est une marque dédiée aux produits simples, naturels et efficaces. Nous croyons en la qualité, la transparence et le fait de faire les choses correctement.</p>
+  </div>
+
+  <div class="card">
+    <h2>Nos produits</h2>
+    <ul>
+      <li>Savons naturels</li>
+      <li>Huiles pour le corps</li>
+      <li>Gommages naturels</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Contact</h2>
+    <p>📧 Email : contact@exactlyandco.com</p>
+    <p>📍 Maroc</p>
+    <a class="btn" href="#">Nous contacter</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 EXACTLY&CO. Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EXACTLY&CO</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #000;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>EXACTLY&CO</h1>
+  <p>Simple. Naturel. Exactement ce qu’il faut.</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>À propos</h2>
+    <p>EXACTLY&CO est une marque dédiée aux produits simples, naturels et efficaces. Nous croyons en la qualité, la transparence et le fait de faire les choses correctement.</p>
+  </div>
+
+  <div class="card">
+    <h2>Nos produits</h2>
+    <ul>
+      <li>Savons naturels</li>
+      <li>Huiles pour le corps</li>
+      <li>Gommages naturels</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Contact</h2>
+    <p>📧 Email : contact@exactlyandco.com</p>
+    <p>📍 Maroc</p>
+    <a class="btn" href="#">Nous contacter</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 EXACTLY&CO. Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
